@@ -5,7 +5,7 @@
 <br>
 <div>
   <h1 align="center">Hi there 👋</h1>
-  <p>My name is Priscia Kuhn Derlam. I'm a Junior Front-end Developer.</p>
+  <p>My name is Priscia Kuhn Derlam. I'm a Junior Front-end Developer. I'm from 🇧🇷, currently living in 🇳🇴. I like sunny days and think we are better together.</p>
   <p>👯 I’m looking forward to collaborating in new Front-end projects and improving the existing ones.</p>
 </div>
 <div id="badges" align="center">
