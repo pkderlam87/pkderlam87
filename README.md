@@ -1,3 +1,5 @@
+<HTML>
+<link rel="import" href="bower_components/flag-icon/flag-icon.html">
 <div id="header">
 <div align="center">
   <img src="https://github.com/pkderlam87/portfolio/blob/main/images/Logos/Logo%20Pee-%20font%20black%20and%20green%20-%20without%20background.png"     alt="Priscila's logo">
@@ -5,7 +7,7 @@
 <br>
 <div>
   <h1 align="center">Hi there 👋</h1>
-  <p>My name is Priscia Kuhn Derlam. I'm a Junior Front-end Developer. I'm from ![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil"), currently living in ![Norway](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/no.png "Norway"). I like sunny days 🌞 and think we are better together.</p>
+  <p>My name is Priscia Kuhn Derlam. I'm a Junior Front-end Developer. I'm from <flag-icon key="br" width="2"></flag-icon>, currently living in <flag-icon key="no" width="2"></flag-icon>. I like sunny days 🌞 and think we are better together.</p>
   <p>I’m looking forward to collaborating in new Front-end projects and improving the existing ones.</p>
 </div>
 <div id="badges" align="center">
@@ -42,3 +44,4 @@
   </div>
 <div id="about">
 </div>
+<HTML>
