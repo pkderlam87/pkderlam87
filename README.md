@@ -1,5 +1,8 @@
 <HTML>
+  <head>
 <link rel="import" href="bower_components/flag-icon/flag-icon.html">
+    <head>
+      <body>
 <div id="header">
 <div align="center">
   <img src="https://github.com/pkderlam87/portfolio/blob/main/images/Logos/Logo%20Pee-%20font%20black%20and%20green%20-%20without%20background.png"     alt="Priscila's logo">
@@ -44,4 +47,6 @@
   </div>
 <div id="about">
 </div>
+  <script src="bower_components/webcomponentsjs/webcomponents.min.js"></script>
+  </body>
 <HTML>
